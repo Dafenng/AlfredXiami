@@ -2,4 +2,4 @@
 
 Alfred 2 虾米音乐搜索 Workflow
 
-![](http://)
+![](https://raw.github.com/keywind/AlfredXiami/master/screenshot.png)
